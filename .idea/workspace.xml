@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0fa951f7-a9bd-493d-9f68-39fd07eb3398" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/unit-tests/test-unit-sample.php" afterPath="$PROJECT_DIR$/tests/unit-tests/test-unit-sample.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wcct16.php" afterPath="$PROJECT_DIR$/wcct16.php" />
     </list>
     <ignored path="wcct-ci.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -34,21 +35,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test-unit-sample.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="test-unit-sample.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tests/unit-tests/test-unit-sample.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.46341464">
-              <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+            <state vertical-scroll-proportion="-6.09434">
+              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="wcct16.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="wcct16.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wcct16.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.8846154">
-              <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+            <state vertical-scroll-proportion="0.23480663">
+              <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -64,6 +65,7 @@
       <list>
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/tests/unit-tests/test-unit-sample.php" />
+        <option value="$PROJECT_DIR$/wcct16.php" />
       </list>
     </option>
   </component>
@@ -213,18 +215,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wcct16.php">
+    <entry file="file://$PROJECT_DIR$/tests/unit-tests/test-unit-sample.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.8846154">
-          <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+        <state vertical-scroll-proportion="-6.09434">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/unit-tests/test-unit-sample.php">
+    <entry file="file://$PROJECT_DIR$/wcct16.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.46341464">
-          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+        <state vertical-scroll-proportion="0.23480663">
+          <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
           <folding />
         </state>
       </provider>
