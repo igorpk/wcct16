@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0fa951f7-a9bd-493d-9f68-39fd07eb3398" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\igorpk\Development\wordpress\wcct-ci\phpunit.xml.dist" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/unit-tests/test-unit-sample.php" afterPath="$PROJECT_DIR$/tests/unit-tests/test-unit-sample.php" />
     </list>
     <ignored path="wcct-ci.iws" />
@@ -38,8 +37,8 @@
       <file leaf-file-name="test-unit-sample.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tests/unit-tests/test-unit-sample.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4390244">
-              <caret line="18" column="67" selection-start-line="18" selection-start-column="67" selection-end-line="18" selection-end-column="67" />
+            <state vertical-scroll-proportion="0.46341464">
+              <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -224,8 +223,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tests/unit-tests/test-unit-sample.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4390244">
-          <caret line="18" column="67" selection-start-line="18" selection-start-column="67" selection-end-line="18" selection-end-column="67" />
+        <state vertical-scroll-proportion="0.46341464">
+          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
           <folding />
         </state>
       </provider>
